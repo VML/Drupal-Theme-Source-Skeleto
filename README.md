@@ -1,2 +1,2 @@
-# Drupal Theme Source: Broth
-Theme Source files for the "Broth" Drupal theme.
+# Drupal Theme Source: Skeleto
+Theme Source files for the "Skeleto" Drupal theme.
