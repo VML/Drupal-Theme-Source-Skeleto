@@ -1,5 +1,5 @@
 
-var projectName = 'broth';
+var projectName = 'skeleto';
 var srcDir = 'themes/' + projectName + '/';
 var destDir = '../docroot/themes/custom/' + projectName + '/';
 
